@@ -1,0 +1,4 @@
+Meter No: 1
+Units Consumed: 20
+Bill Amount: ₹100.0
+Date: Sat May 10 22:28:27 IST 2025
